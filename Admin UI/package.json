@@ -1,7 +1,7 @@
 {
-  "name": "project3",
+  "name": "blogen",
   "version": "1.0.0",
-  "description": "Bootstrap 4 workflow practice goes on ...",
+  "description": "Bootstrap 4 multi page theme",
   "main": "index.js",
   "scripts": {
     "start": "gulp"
