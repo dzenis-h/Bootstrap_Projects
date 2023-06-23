@@ -1,14 +1,18 @@
 ##
-![GitHub repo size](https://img.shields.io/github/repo-size/dzenis-h/Bootstrap_Projects)
-![GitHub contributors](https://img.shields.io/github/contributors/dzenis-h/Bootstrap_Projects)
-![GitHub stars](https://img.shields.io/github/stars/dzenis-h/Bootstrap_Projects?style=social)
-![GitHub forks](https://img.shields.io/github/forks/dzenis-h/Bootstrap_Projects?style=social)
-[![LinkedIn Follow](https://img.shields.io/badge/-Follow-blue?style=social&logo=linkedin&link=https://www.linkedin.com/in/dzenis-h/)](https://www.linkedin.com/in/dzenis-h/)
-[![GitHub Follow](https://img.shields.io/badge/-Follow-black?style=social&logo=github&link=https://github.com/dzenis-h)](https://github.com/dzenis-h) 
+
+<p align="center">
+  <img src="https://img.shields.io/github/repo-size/dzenis-h/Bootstrap_Projects"/>
+  <img src="https://img.shields.io/github/contributors/dzenis-h/Bootstrap_Projects"/>
+  <img src="https://img.shields.io/github/stars/dzenis-h/Bootstrap_Projects?style=social"/>
+  <img src="https://img.shields.io/github/forks/dzenis-h/Bootstrap_Projects?style=social"/>
+  <a href="https://www.linkedin.com/in/dzenis-h/"><img src="https://img.shields.io/badge/-Follow-blue?style=social&logo=linkedin"/></a>
+  <a href="https://github.com/dzenis-h"><img src="https://img.shields.io/badge/-Follow-black?style=social&logo=github"/></a>
+</p>
 <p align="center">
   <img src="https://stackoverflow.com/users/flair/8146571.png?theme=dark&showIcon=true&showName=true&showBadges=true&showRep=true&showPosts=true&stackApps=true"/>
-</p>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap badge" style="vertical-align: middle;"> <strong>Bootstrap Projects</strong>
+</p> 
+  
+  <strong>Bootstrap Projects</strong>
 
 ## Overview 👀
 
