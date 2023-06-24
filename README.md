@@ -1,3 +1,4 @@
+
 ##
 
 <p align="center">
@@ -11,8 +12,10 @@
 <p align="center">
   <img src="https://stackoverflow.com/users/flair/8146571.png?theme=dark&showIcon=true&showName=true&showBadges=true&showRep=true&showPosts=true&stackApps=true"/>
 </p> 
-  
-  <strong>Bootstrap Projects</strong>
+
+![Bootstrap badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) 
+
+<h1>Bootstrap Projects</h1>
 
 ## Overview 👀
 
@@ -47,3 +50,4 @@ This repo was created by [Dzenis H.](https://dzenis.tech)
 Contributions are more than welcome. 🫡
 
 If you like what you see, please consider giving a ⭐️
+
